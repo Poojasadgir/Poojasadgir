@@ -1,4 +1,4 @@
-![logo](https://github.com/Poojasadgir/Poojasadgir/blob/main/Img.gif )
+![logo](https://github.com/Poojasadgir/Poojasadgir/blob/main/Pooja_Sadgir.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Sadgir</h1>
 <h3 align="center">A frontend Developer,with a strong interest in Data Structures and Algorithms (DSA).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojasadgir&label=Profile%20views&color=0e75b6&style=flat" alt="poojasadgir" /> </p>
